@@ -24,18 +24,6 @@ A deep learning project to classify images of fashion items (e.g., shirts, trous
   - 10,000 test images
 
 ---
-
-## 🔧 Project Structure
-
-```bash
-Fashion_Mnist_Classification/
-│
-├── model_training.ipynb     # Jupyter notebook for training and evaluating the CNN
-├── fashion_model.h5         # Saved model (optional)
-├── submission.csv           # Prediction output
-├── README.md                # Project overview (this file)
-```
-
 ---
 
 ## 🧪 Steps Overview
