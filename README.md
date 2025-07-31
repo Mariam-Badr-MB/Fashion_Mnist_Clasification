@@ -35,7 +35,6 @@ A deep learning project to classify images of fashion items (e.g., shirts, trous
 - Load dataset using `tf.keras.datasets.fashion_mnist.load_data()`.
 - Normalize images to range `[0, 1]`.
 - Reshape images to include channel dimension: `(28, 28, 1)`.
-- One-hot encode the labels (optional).
 - Shuffle and split validation set from training data.
 
 ### 3. 🧠 Model Architecture
